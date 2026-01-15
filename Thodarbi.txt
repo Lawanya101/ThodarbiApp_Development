@@ -5,4 +5,6 @@ Author: Lawanya
 1.App icon development code
 2.Home screen code
 3.Chat screen code
-3.Attachment code
+4.Attachment code
+5.View Last Seen code
+
