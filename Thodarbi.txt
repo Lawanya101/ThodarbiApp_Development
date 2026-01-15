@@ -1,0 +1,8 @@
+This is Thodarbi Code
+
+Author: Lawanya
+
+1.App icon development code
+2.Home screen code
+3.Chat screen code
+3.Attachment code
