@@ -5,13 +5,14 @@ Author: Lawanya
 1.App icon development code
 2.Home screen code
 3.Chat screen code
-4.Attachment code
+4.Attachment code for document
 5.View Last Seen code
 6.Adding the Audio Call Feature
 7.Adding the Video call feature
 8.Adding status option
 9.Adding the code for sharing the location.
 10.Adding code for introducing group feature with 300 users.
+
 
 
 
